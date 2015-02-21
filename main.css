@@ -1,0 +1,101 @@
+/* INSERT MEDIA QUERIES */
+/* DESKTOP */
+
+
+/*@font-face {
+    font-family: 'capstoneFont';
+    src: url('../tribeca/Tribeca.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    /*background: -webkit-linear-gradient(#ffffff, #3a7ea3);
+    background: -o-linear-gradient(#ffffff, #3a7ea3);
+    background: -moz-linear-gradient(#ffffff, #3a7ea3);
+    background: linear-gradient(#ffffff, #3a7ea3);
+    background-repeat: no-repeat;
+    font-family: Tribeca;*/
+    font-family: 'Sigmar One', cursive;
+    font-size: 15px;
+    background-image: url(../_images/backgroundImage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+section {
+    width: 100%;
+}
+article {
+    width: 80%;
+    background: rgba(255, 255, 255, .5);
+    padding: 5px;
+    float: right;
+    font-weight: bold;
+}
+aside {
+    width: 10%;
+    float: left;
+}
+
+.tour {
+    text-align: left;
+}
+
+h2 { 
+    color: #ffffff;
+}
+
+header, nav {
+    color: #ffffff;
+}
+
+nav {
+    position: relative;
+    
+}
+
+nav ul li {
+    list-style-type: none;
+    padding: 12px;
+    font-size: 18px;
+    
+
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #DB4D4D;
+
+}
+
+nav a:hover {
+    color: #000000;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000000;
+}
+
+footer {
+    color: #ffffff;
+    padding: 0.5px;
+    clear: both;
+    font-size: 24px;
+}
+
+
