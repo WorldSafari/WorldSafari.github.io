@@ -18,7 +18,7 @@ body {
     background: linear-gradient(#ffffff, #3a7ea3);
     background-repeat: no-repeat;
     font-family: Tribeca;*/
-    font-family: 'Sigmar One', cursive;
+    font-family: 'Titillium Web', sans-serif;
     font-size: 15px;
     background-image: url(https://cloud.githubusercontent.com/assets/10876549/6854368/132c3186-d3ae-11e4-9f8f-02a3ef508d30.png);
     background-size: cover;
@@ -32,6 +32,7 @@ body {
 h1 {
     font-size: 48px;
     text-align: center;
+    font-family: 'Sigmar One', cursive;
 }
 
 section {
